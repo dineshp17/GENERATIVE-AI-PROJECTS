@@ -1,7 +1,9 @@
-A blog generator using gemini API 
+"A blog generator using gemini API "
 
 
-Aim : To create an intelligent system capable of generating valuable and engaging content according to the user's prompt
+Aim 
+
+To create an intelligent system capable of generating valuable and engaging content according to the user's prompt
 
 Project Objectives
 
