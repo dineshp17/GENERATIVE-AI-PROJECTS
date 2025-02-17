@@ -1,5 +1,4 @@
-"A blog generator using gemini API "
-
+"A BLOG GENERATOR USING GEMINI API "
 
 Aim 
 
